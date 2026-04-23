@@ -3,12 +3,12 @@ from persona import Persona
 juan = Persona("juan","castellanos",15)
 juan.mostrarpersona()
 
-luisa= Persona("luisa","castro",18)
-luisa.mostrarpersona()
+sara= Persona("sara","blonde",18)
+sara.mostrarpersona()
 
-luisa.apellidos = "perez"
-luisa.mostrarpersona()
+sara.apellidos = "perez"
+sara.mostrarpersona()
 
-juan=luisa
+juan=sara
 
 juan.mostrarpersona()       
