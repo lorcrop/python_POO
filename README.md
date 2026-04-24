@@ -172,6 +172,8 @@ class Cuadrado:
         self.v3.mostrarcoordenada()
         self.v4.mostrarcoordenada()
 ```
+
+
 ## Herencia
 - Permite la reutilización de código.
 - Consiste en la definición de una clase utilizando como base una clase ya existente.
