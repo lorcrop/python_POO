@@ -14,8 +14,8 @@ class Persona:
 
 def main():
     print("vamos a aprender POO...")
-    Persona_1 = Persona("Lorenzo", "Perez", 18)
-    persona.mostrarpersona()
+    persona_1 = Persona("Lorenzo", "Perez", 18)
+    persona_1.mostrarpersona()
 
 if __name__ == "__main__":
     main()
